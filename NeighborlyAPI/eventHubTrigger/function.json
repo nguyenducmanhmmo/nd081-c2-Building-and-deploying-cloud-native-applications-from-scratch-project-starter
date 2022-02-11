@@ -6,7 +6,7 @@
       "name": "event",
       "direction": "in",
 	  "eventHubName": "testhub", 
-	  "connection": "Endpoint=sb://neighborly.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=tAE8IODdgE6+rSVIAKQeE1bobptxvjvC3cQqnqyfIPw="
+	  "connection": "Endpoint=sb://neighborly.servicebus.windows.net/;SharedAccessKeyName=manage;SharedAccessKey=tfykOZ5WBC3JDn0v3xOZ6re/Nn5t2pjs6FS4W70HYjk=;EntityPath=neighborlyeventhub"
     }
   ]
 }
